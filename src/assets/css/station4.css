@@ -10,7 +10,6 @@
 }
 
 .card__title {
-	background-color: #ffffff;
 	color: #282828;
 	font-size: 14px;
 }
@@ -24,4 +23,8 @@
 	background-color: #ffffff;
 	color: #282828;
 	font-size: 12px;
+}
+
+body {
+	background-color: #c4c4c4;
 }
